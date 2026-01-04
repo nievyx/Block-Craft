@@ -1,0 +1,10 @@
+#Virtual Environment
+.venv/
+venv/
+
+.idea/
+
+.ursinavenv/
+save_data.json
+old_versions
+
