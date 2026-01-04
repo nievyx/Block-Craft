@@ -23,7 +23,7 @@
 
 
 (Image taken before Sky fixed)
-![Alt Text](capture.PNG)
+![Alt Text](Capture.PNG)
 
 ### Requirements
 - Python 3.9+
